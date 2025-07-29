@@ -1,0 +1,3 @@
+[submodule "fonts/kufam"]
+	path = fonts/kufam
+	url = https://github.com/originaltype/kufam.git
